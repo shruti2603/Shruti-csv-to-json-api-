@@ -1,0 +1,6 @@
+name,age,address,additional_info
+John Doe,25,"{\"street\": \"123 Main St\", \"city\": \"New York\", \"state\": \"NY\"}","{\"hobby\": \"reading\"}"
+Jane Smith,30,"{\"street\": \"456 Maple Ave\", \"city\": \"Los Angeles\", \"state\": \"CA\"}","{\"hobby\": \"swimming\"}"
+Alice Johnson,50,"{\"street\": \"789 Elm St\", \"city\": \"Chicago\", \"state\": \"IL\"}","{\"hobby\": \"painting\"}"
+Bob Brown,65,"{\"street\": \"987 Oak St\", \"city\": \"Houston\", \"state\": \"TX\"}","{\"hobby\": \"coding\"}"
+
